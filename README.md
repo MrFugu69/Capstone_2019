@@ -1,5 +1,7 @@
 # Capstone_2019
-`-----------------------------`
+                                                         Celluar Image Denoising & Classification
+                                                                  
+`----------------------------------------------------------------------------------------------------------------------------------------`
 
 **Background**:
 
@@ -8,7 +10,8 @@ Unfortunately, noise contributions during imaging create hurdles for interpretat
 
 Imagine using clinical imaging such as microscopy to aid in drug deveolpment. The new age of bioinformatics will hedge on Machine Learning and Deep Learning. Currently, this is being brought to fruition through [Recursion Pharm](https://www.recursionpharma.com) and associated with [Kaggle](https://www.kaggle.com/competitions). The time frame to bring drugs to market averages around 10 years with a cost hundreds of millions of dollars according to Recursion Pharma. 
 
-**Challenge**: 
+**Work Flow**: 
+
 One of the challenges for advancing Biological microscopy using "*AI*" such as *Machine Learning or Deep Learning* stems from the inability to sustain replicate images with identical characteristics. Here I will attempt to form a process enabling [denoising] and clarification of images for future classification. This will be done with *Google Colab* and *Tensor Flow*, all work will be done using Tensor Processing Units *TPU* which are far superior to *GPU* computation in parallel. Remote storage buckets will be used with *Google Cloud* in order to store and access images. All dependencies will be supplemented through *Google Colab* and you will not need any external downloads. 
 
 
