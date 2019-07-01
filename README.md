@@ -1,5 +1,5 @@
 # Capstone_2019
-                                                  Celluar Image Denoising & Classification
+                                           Celluar Image Denoising & Classification
                                                                   
 `-------------------------------------------------------------------------------------------------------------`
 
