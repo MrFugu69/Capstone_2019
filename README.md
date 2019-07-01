@@ -1,8 +1,7 @@
 # Capstone_2019
-                                           Celluar Image Denoising & Classification
-                                                         **Logan R.**
-                                                            
-                                                            
+                                           <b>Celluar Image Denoising & Classification</b>
+                                                         
+                                                                                                              
 `-------------------------------------------------------------------------------------------------------------`
 
 **Background**:
