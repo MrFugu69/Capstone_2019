@@ -1,5 +1,5 @@
 # Capstone_2019
-                                           <b>Celluar Image Denoising & Classification</b>
+                                           'Celluar Image Denoising & Classification'
                                                          
                                                                                                               
 `-------------------------------------------------------------------------------------------------------------`
