@@ -1,5 +1,5 @@
 # Capstone_2019
-                                           CELLUAR DENOISING & CLASSIFICATION
+                                           CELLUAR IMAGE DENOISING & CLASSIFICATION
                                            
 `-------------------------------------------------------------------------------------------------------------`
 
@@ -12,7 +12,8 @@ Imagine using clinical imaging such as microscopy to aid in drug deveolpment. Th
 
 **Work Flow**: 
 
-One of the challenges for advancing Biological microscopy using "*AI*" such as *Machine Learning or Deep Learning* stems from the inability to sustain replicate images with identical characteristics. Here I will attempt to form a process enabling [denoising] and clarification of images for future classification. This will be done with *Google Colab* and *Tensor Flow*, all work will be done using Tensor Processing Units *TPU* which are far superior to *GPU* computation in parallel. Remote storage buckets will be used with *Google Cloud* in order to store and access images. All dependencies will be supplemented through *Google Colab* and you will not need any external downloads. 
+One of the challenges for advancing Biological microscopy using "*AI*" such as *Machine Learning or Deep Learning* stems from the inability to sustain replicate images with identical characteristics. Here, I will attempt to form a process enabling [denoising] and clarification of images for future classification. This will be done with *Google Colab* and *Tensor Flow*, all work will be done using Tensor Processing Units *TPU* which are far superior to *GPU* computation in parallel; due to computationally intensive work when using *Deep Learning* models.  
+Remote storage buckets will be used with *Google Cloud* in order to store and access images. All dependencies will be supplemented through *Google Colab* and you will not need any external downloads. 
 
-
+[colab tpu setup](https://colab.research.google.com/notebooks/tpu.ipynb)
 
