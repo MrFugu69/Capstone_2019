@@ -17,6 +17,8 @@ Imagine using clinical imaging such as microscopy to aid in drug deveolpment. Th
 One of the challenges for advancing microscopy and Bioinformatics in terms of *AI*: (*Machine Learning or Deep Learning*) stems from the inability to sustain replicate images with identical characteristics. Here, I will attempt to form a process enabling [denoising] and clarification of images for future classification. This will be done with **Google Colab**, **Tensor Flow** and **Python 3**, all work will be done using Tensor Processing Units (*TPU*) which are far superior to *GPU* computation in parallel; due to computationally intensive work when using *Deep Learning* models.  
 Remote storage buckets will be used with *Google Cloud* in order to store and access images. All dependencies will be supplemented through *Google Colab* and you will not need any external downloads. An example of denoising can be seen at [Meisam Rakhshanf Github](https://github.com/meisamrf/Image-denoising-tensorflow-keras)
 
+**Goal**: Try to find a way to use *Machine Learning* to separate Biological variations and batch effects. A batch is a series of experiments executed together.Each batch introduces variation by either biological or tehnical variables. Finding a way to separate these would contribute greatly to the field of Biology and Drug Development. 
+
 **Setup Resources**:
 
 [colab tpu setup](https://colab.research.google.com/notebooks/tpu.ipynb) | [colab tpu help](https://medium.com/@jannik.zuern/using-a-tpu-in-google-colab-54257328d7da)
