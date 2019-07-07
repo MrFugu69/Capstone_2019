@@ -3,7 +3,7 @@
                                            
 `-------------------------------------------------------------------------------------------------------------`
 
-**Dataset**: [Kaggle](https://www.kaggle.com/c/recursion-cellular-image-classification)
+**Dataset**: This dataset consists of 296 GB [Kaggle](https://www.kaggle.com/c/recursion-cellular-image-classification) currently 1,108 classes and 125,510 individual images from *Recursion Pharma*, the leader in Biological images [RxRx.a1](https://www.rxrx.ai/). 
 
 **Background**:
 
