@@ -3,7 +3,7 @@
                                            
 `-------------------------------------------------------------------------------------------------------------`
 
-**Dataset**: ~50GB of 6 channel Flourescent microscopy, [Kaggle](https://www.kaggle.com/c/recursion-cellular-image-classification) with 1,108 classes and 125,510 individual images from *Recursion Pharma*, the leader in Biological images [RxRx.a1](https://www.rxrx.ai/).  
+**Dataset**: ~50GB of Flourescent microscopy images: [512,512,6], [Kaggle](https://www.kaggle.com/c/recursion-cellular-image-classification) with 1,108 classes and 125,510 individual images from *Recursion Pharma*, the leader in Biological images [RxRx.a1](https://www.rxrx.ai/).  
 
 **Background**:
 
